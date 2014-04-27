@@ -8,8 +8,4 @@ Created during Gophercon 2014.
 
 # Overview
 
-gobeat is comprised of a command-line tool and a server-side application that
-proxies match result reports to Twitter.
-
-The command line tool submits results to Twitter. Or, if you roll that way, you
-may simply cURL against the documented API to post a match result.
+gobeat is used to post to a simple handler, such as the gotweet-server
